@@ -1,1 +1,3 @@
 {"timestamp":"1567629788","author":"dolanorgit@evereska.org","location":{"commit":"2cd2df86a8b1ac447a87d5f24e05289dca1fff2e","path":"content/post/web-security-1-context.md","range":{"startLine":54}},"description":"Isn't it after the host[:port] portion and before the `?query` portion?"}
+
+{"timestamp":"1567630416","author":"dolanorgit@evereska.org","location":{"commit":"2cd2df86a8b1ac447a87d5f24e05289dca1fff2e","path":"content/post/web-security-1-context.md","range":{"startLine":151}},"description":"I don't see where this is explained explicitely. So I don't understand why it's part of **Recap**"}
